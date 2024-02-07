@@ -7,7 +7,7 @@
   
 <style>
     body {
-        background-image: url('branco.jpg');
+        background-image: url('back.jpeg');
         background-size: 500%;
         background-position: center;
         background-repeat: no-repeat;
@@ -51,14 +51,21 @@
       <br><br>
       <a href="https://play.google.com/store/apps/details?id=com.dts.freefireth">Mobile - PlayStore</a>
         <hr>
-        <br>
         <p><h2>Life is Strange</h2></p>
+        
+        <<img src="life.jpg"width="350"height="250">
+        
+        <p><h6>Life is Strange é uma premiada aventura em episódios, aclamada pela crítica, que permite ao jogador voltar no tempo e alterar passado, presente e futuro. Siga a história de Max Caulfield, uma estudante de fotografia que descobre ser capaz de rebobinar o tempo ao salvar a melhor amiga, Chloe Price.</h6></p>
+        
+        <a href="https://youtu.be/TI3AMPKEPmQ?si=QVeN2OxVs_FknPRr">Life Strange Official Trailer - YouTube</a>
+        <br><br>
+        <a href="https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/">Life Strange - Steam</a>
+        <hr>
   </body>
   
   <footer>
-    
+    <br>
     <p><h2>Página Em Manutenção...</h2></p>
-    
   </footer>
   
 </html>
