@@ -1,0 +1,64 @@
+<!DOCETYPE>
+  
+<html>
+  <head>
+    <title>Jogos</title>
+  </head>
+  
+<style>
+    body {
+        background-image: url('branco.jpg');
+        background-size: 500%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+</style>
+  
+  <body>
+    <tilte><h1>Top jogos que eu gosto!</h1></tilte/>
+    <br>
+    <hr>
+    <p><h2>Grand Theft Auto</h2></p>
+    
+    <img src="gtav.jpg"width="370"height="200"/>
+    
+    <p><h6>O mundo aberto da Rockstar games que gerou sucesso de crítica chega a uma nova geração. Entre nas vidas de três criminosos muito diferentes, Michael, Franklin e Trevor, enquanto eles arriscam tudo em uma série de assaltos ousados que podem garantir o resto de suas vidas.a</h6></p>
+    
+      <a href="https://youtu.be/QkkoHAzjnUs?si=GHhPWKtCRQblv7mG">Grand Theft Auto V Trailer - YouTube</a>
+      <br><br>
+      <a href="https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/">Grand Theft Auto V - Steam</a>
+      <hr>
+      <p><h2>Minecraft</h2></p>
+      
+      <img src="Mine.jpg"width="200"height="300">
+      <p><h6>Minecraft é um jogo eletrônico dos gêneros sandbox e sobrevivência que não possui objetivos específicos a serem alcançados, permitindo aos jogadores uma grande liberdade de escolha de como jogá-lo. No entanto, existe um sistema de conquistas, conhecido como "progressos" na edição Java.</h6></p>
+      
+      <a href="https://youtu.be/MmB9b5njVbA?si=ws-wxGB7PFMuMNU3">Oficial Minecraft Trailer - YouTube</a>
+      <br><br>
+      <a href="https://www.minecraft.net/pt-br">Minecraft Shop</a>
+      <hr>
+      <br>
+      <p><h2>Free Fire</h2></p>
+      
+      <img src="FF.jpg"width="370"height="200">
+      
+      <p><h6>AVISO! Não estrague o FF com hacks ou  personagem roubados tira essência do jogo que é capa,movi, noção de jogo para ser jogador realmente bom treine isso e jogue com as habilidades Alok,Kelly,Maxim,Moco o pet bota o pinguim eu te garanto que você vai se divertir mais assim!</h6></p>
+      
+      <p><h6>Free Fire é um jogo de tiro e sobrevivência mundialmente famoso disponível no celular. Cada partida dura cerca de 10 minutos e te coloca em uma ilha para enfrentar 49 jogadores na luta pela sobrevivência. Os jogadores chegam ao mapa de avião e podem escolher quando saltar de paraquedas.</h6></p>
+      
+      <a href="https://youtu.be/WZX8ZQNzRqU?si=tGgVYN9fUc0kp4OQ">Criador do capa FF - YouTube </a>
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.dts.freefireth">Mobile - PlayStore</a>
+        <hr>
+        <br>
+        <p><h2>Life is Strange</h2></p>
+  </body>
+  
+  <footer>
+    
+    <p><h2>Página Em Manutenção...</h2></p>
+    
+  </footer>
+  
+</html>
