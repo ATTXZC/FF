@@ -1,1 +1,1 @@
-Repositório dr códigos de site do OSAMA
+Repositório dos códigos de site do OSAMA
