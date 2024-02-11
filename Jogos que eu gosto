@@ -1,23 +1,30 @@
 <!DOCETYPE>
-  
+
 <html>
+  <lang="pt-br">
+  
   <head>
+    <meta charset="utf-8">
+    
+    <meta name="viewport"content="width=device-width, initial scale=1.0">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="brazil">
+    
     <title>Jogos</title>
   </head>
   
-<style>
-    body {
-        background-image: url('back.jpeg');
-        background-size: 500%;
-        background-position: center;
-        background-repeat: no-repeat;
+  <style>
+      body {
+          background-image: url('b.png');
+          background-size: 1000%;
+          background-position: center;
+          background-repeat: no-repeat;
     }
     
-</style>
+  </style>
   
   <body>
-    <tilte><h1>Top jogos que eu gosto!</h1></tilte/>
-    <br>
+    <h1>Top jogos que eu gosto! &#x1F60E;</h1>
     <hr>
     <p><h2>Grand Theft Auto</h2></p>
     
@@ -65,7 +72,7 @@
   
   <footer>
     <br>
-    <p><h2>Página Em Manutenção...</h2></p>
+    <p><h2>Página Em Manutenção...<br><h5>Guigas &copy;</h5></h2></p>
   </footer>
   
 </html>
