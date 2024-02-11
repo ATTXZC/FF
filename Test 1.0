@@ -1,0 +1,46 @@
+<!DOCTYPE html> <!--Pra dizer que é HTML 5-->
+
+<!--Gimp-->
+<!--favicon.io-->
+<!--favicon.cc-->
+<!--iconarchive-->
+
+<html> <!--O cérebro-->
+  <lang="pt-br"></lang> <!--Tag para linguagem-->
+
+<head> <!--A cabeça-->
+  <meta charset="utf-8"> <!--Tag para acentos-->
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!--Tag para o site ficar em tela cheia-->
+  
+  <link rel="shortcut icon" type="image/x-icon" href="brazil.ico"> <!--Adicona ícones-->
+   
+  <title>Teste</title> <!--Titulo-->
+</head>
+
+<body> <!--O corpo-->
+  <h1>Regedit Mobile FFH4X</h1> <!--Fonte-->
+  <hr> <!--Linha-->
+  <br> <!--Quebra de Linha-->
+  <p>Melhor pacote regedit é aqui!<br>Arquivos roubado!</p> <!--Paragrafo-->
+  <br>
+  <p>Símbolos:<br>&copy;<!--Copyright--><br>&reg;<!--Marca Registrada--><br>&trade;<!--Trade Mark--><br>&euro;<!--Euro--><br>&pound;<!--Libra--><br>&yen;<!--Ienes--><br>&cent;<!--USD--><br>&Delta;<!--Delta--><br>&uparrow;<!--Seta para Cima--></p>
+  <br>
+  <!--Codigo no Emojipedia-->
+  <p>Emoji:<br>&#x1F596;&#x1F913;</p><!--"&#x" É para dizer que o código é hexadecimal-->
+  <hr>
+  <br><br>
+  <p>Imgens:</p>
+  <img src="html.png" alt="HTML 5" width="300" height="290"> <!--Adiciona imagem| Width = Largura e Height = Altura-->
+  <br><br><br><br>
+  <img src="css.png" alt="Imagem CSS" width="278" height="266">
+  <br><br><br><br>
+  <img src="js.png" alt="JavaScript">
+</body>
+
+<footer>
+    <hr>
+    <h6>Guigas &copy;</h6> <!--Simbolo de Copyright-->
+</footer>
+
+</html>
