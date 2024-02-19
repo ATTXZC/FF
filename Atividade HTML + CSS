@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html>
+    <lang="pt-br"></lang>
+    
+    <head>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        
+        <title>Osama Trojan</title>
+
+        <meta charset="utf-8">
+
+        <meta name="viewport" content="width=device-width, inicial scale = 1.0">
+
+        <link rel="stylesheet" href="form2.css">
+
+    </head>
+
+    <body>
+        <header>
+            <h1>Trojan OS</h1>
+        </header>
+        
+        <section>
+            <div class = "job">
+                <p>Aqui em baixo está o TROJAN OS dísponivel para download</p>
+            </div>
+            
+            <div= calss = "img">
+                <img src="arq.png" width="398" height="400"/>
+            </div>
+
+            <div class="job">
+                <a href="file:///C:/Users/021.900241/Desktop/Atividade/forms3.html">TROJAN</a>
+                <h2>USE COM CUIDADO!!!</h2>
+            </div>
+        </section>
+    </body>
+
+    <footer>
+        <p>OSAMA &copy;</p>
+    </footer>
+
+</html>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+
+<html>
+    <lang="pt-br"></lang>
+    
+    <head>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        
+        <title>Osama Forms</title>
+
+        <meta charset="utf-8">
+
+        <meta name="viewport" content="width=device-width, inicial scale = 1.0">
+
+        <link rel="stylesheet" href="form2.css">
+
+    </head>
+
+    <body>
+        <div class = "img2">
+            <img src="a.png" width="398" height="400"/>
+        </div>
+
+        <form>
+            <h1>Contate-nos</h1>
+            <p>Por favor, preencha este formulário para entrar em contato conosco.</p>
+            <label for="fname">Nome:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="email">Email:</label><br>
+            <input type="text" id="email" name="email"><br>
+            <label for="message">Mensagem:</label><br>
+            <textarea id="message" name="message"></textarea><br>
+            <input type="submit" value="Enviar">
+        </form>
+        
+        <div class = "p2">
+            <a href="file:///C:/Users/021.900241/Desktop/Atividade/form1.html">VOLTAR</a>
+        </div>
+    </body>
+
+    <footer>
+        <p>OSAMA &copy;</p>
+    </footer>
+
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+body{
+    font-family: "Arial";
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background-color: #E8EBEA;
+}
+
+header{
+    border: 7px solid #240c0c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+header h1{
+    margin: 0;
+    font-size: 36px;
+    color: #262A39
+}
+
+section{
+    padding: 20px;
+}
+
+.job{
+    font-family: "Arial";
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.job h3 {
+    margin-top: 0;
+    font-size: 30px;
+}
+
+img {
+    margin-left: 750px;
+}
+
+footer{
+    background-color: #262A39;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+form{
+    font-family: "Arial";
+    margin-top: 40px;
+    margin-left: 490px;
+    margin-right: 500px;
+    margin: 2x;
+    border: 7px solid #262A39;
+    padding:0.6%;
+    text-align: center;
+}
+
+.img2{
+    margin-left: center;
+}
+
+.p2{
+    font-family: "Trajan";
+    text-align: center;
+    margin-top: 40px;
+}
