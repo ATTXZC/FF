@@ -1,0 +1,107 @@
+(HOME)
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="shortcut icon" type="image/jpg" href="icon_mercedes.ico">
+
+        <link rel="stylesheet" href="desing.css">
+
+        <title>Mercedes</title>
+
+    </head>
+        
+        <header>
+            <h1>KATIAU CARROS</h1>
+            
+            <div class="img">
+                <img src="katiau.jpg" width="300" height="200">
+            </div>
+            <hr>
+            <nav id="Menu">
+                <ul>
+                    <li><a href="Home.html">Home</a></li>
+                    <li><a href="Quem Somos.html">Quem somos</a></li>
+                    <li><a href="Contato.html">Contato</a></li>
+                    <li><a href="Serviços.html">Serviços</a> </li>
+                    <li><a href="Produtos.html">Produtos</a></li>
+                </ul>
+            </nav>
+
+            <marquee behavior="" direction="right">COMPRE AGORA O MC MAQUEN!!!</marquee>
+        </header>
+       
+    
+    <body>
+        
+    
+    </body>
+    
+    <footer>
+
+    </footer>
+</html>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+body{
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+header{
+    background-color: #262A39;
+    color: #fff;
+    padding: 22px;
+    text-align: center;
+    justify-content: center;
+}
+
+header h1{
+    font-family: Verdana;
+    margin: 0;
+    font-size: 78px;
+    color:  #f9faff;
+    margin-top: 50px;
+}
+
+#Menu{
+    width: 800px;
+}
+
+#Menu ul{
+    list-style-type: none;
+}
+
+#Menu li{
+    font-family: Helvetica;
+    font-size: 12px;
+    border-color: rgb(209, 24, 39);
+    border-style: solid;
+    width: 120px;
+    float: left;
+}
+
+#Menu li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+#Menu li a:hover{
+    background-color: rgb(209, 24, 39);
+    color: #fff
+}
+
+header img{
+    margin-right: 1500px;
+    margin-top: -135px;
+}
+
+
