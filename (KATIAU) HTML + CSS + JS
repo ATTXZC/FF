@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="shortcut icon" type="image/jpg" href="icon_mercedes.ico">
+
+        <link rel="stylesheet" href="desing.css">
+
+        <title>Mercedes</title>
+
+    </head>
+        <header>
+            <h1>KATIAU CARROS</h1>
+            
+            <div class="img">
+                <img src="avatars-8CHJWudeYmmD6Y7P-nqDt0g-t500x500-removebg-preview (1).png" width="300" height="200">
+            </div>
+            <hr>
+            <nav id="Menu">
+                <ul>
+                    <li><a href="Home.html">Home</a></li>
+                    <li><a href="Quem Somos.html">Quem somos</a></li>
+                    <li><a href="Contato.html">Contato</a></li>
+                    <li><a href="Serviços.html">Serviços</a> </li>
+                    <li><a href="Produtos.html">Produtos</a></li>
+                </ul>
+            </nav>
+
+            <marquee behavior="" direction="right">COMPRE AGORA O MC MAQUEN!!!</marquee>
+
+            <script type="text/javascript">
+                var Turno = prompt("Qual seu turno? M = Matutino ou V = Vespertino ou N = Noturno: ");
+                
+                if (Turno == "M"){
+                    document.write("Bom Dia você escolheu Matutino");
+                }
+
+                else if (Turno == "V"){
+                        document.write("Boa Tarde você escolheu Vespertino");
+                }
+
+                else if (Turno == "N"){
+                    document.write("Boa noite você escolheu Noturno");
+                }
+
+                else{
+                    alert("ERRO 404!")
+                }
+            </script>
+
+            <script type="text/javascript">
+                var dia = prompt("Qual seu dia da semana menor? Digite tudo em maisculo");
+
+                dia = dia.toLowerCase()
+
+                switch (dia){
+                    case "SEGUNDA":
+                        alert("Você escolheu Segunda");
+                        break;
+
+                    case "TERCA":
+                        alert("Você escolheu Terça");
+                        break;
+
+                    case "QUARTA":
+                        alert("Você escolheu Quarta");
+                        break;
+                        
+                    case "QUINTA":
+                        alert("Você escolheu Quinta");
+                        break;
+
+                    case "SEXTA":
+                        alert("Você escolheu Sexta");
+                        break;
+                    
+                    case "SABADO":
+                        alert("Você escolheu Sabado");
+                        break;
+
+                    case "DOMINGO":
+                        alert("Você escolheu Domingo");
+                        break;
+                    
+                    default:
+                        alert("ERRO 404!")
+                }
+            </script>
+        </header>
+       
+    
+    <body>
+    <fieldset>
+        <legend>Informações Gerais</legend>
+        <label>Digite sua opnião</label>
+        <br>
+        <textarea rows="8" cols="90"></textarea>
+    </fieldset>
+    </body>
+    
+    <footer>
+
+    </footer>
+</html>
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+body{
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+header{
+    background-color: #262A39;
+    color: #fff;
+    padding: 22px;
+    text-align: center;
+    justify-content: center;
+}
+
+header h1{
+    font-family: Verdana;
+    margin: 0;
+    font-size: 78px;
+    color:  #f9faff;
+    margin-top: 50px;
+}
+
+#Menu{
+    width: 800px;
+}
+
+#Menu ul{
+    list-style-type: none;
+}
+
+#Menu li{
+    font-family: Helvetica;
+    font-size: 12px;
+    border-color: rgb(209, 24, 39);
+    border-style: solid;
+    width: 120px;
+    float: left;
+}
+
+#Menu li a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+#Menu li a:hover{
+    background-color: rgb(209, 24, 39);
+    color: #fff
+}
+
+header img{
+    margin-right: 1500px;
+    margin-top: -135px;
+}
