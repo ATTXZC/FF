@@ -111,7 +111,12 @@
         </script>
 
         <script type="text/javascript">
-            
+            var a = prompt("Digite:");
+
+            for(i = -1; i <=a; i--){
+                a -= i;
+            }
+            alert(a);
         </script>
     </body>
     
