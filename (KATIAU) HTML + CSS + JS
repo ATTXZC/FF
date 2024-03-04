@@ -91,24 +91,34 @@
                 }
             </script>
         </header>
-       
     
     <body>
-    <fieldset>
-        <legend>Informações Gerais</legend>
-        <label>Digite sua opnião</label>
-        <br>
-        <textarea rows="8" cols="90"></textarea>
-    </fieldset>
+        <script type="text/javascript">
+            for (i = 0; i <=1; i+=2){
+                    alert(i);
+            }
+        </script>
+
+        <script type="text/javascript">
+            var a = prompt("Digite um número:");
+            var soma = 0;
+            for (j = 0; j<=a; j++){
+                if (j % 2 !== 0){
+                    soma += j;
+                }
+            }
+            alert("A som a dos numeros de 1 até seu numero é: "+soma);
+        </script>
+
+        <script type="text/javascript">
+            
+        </script>
     </body>
     
     <footer>
 
     </footer>
 </html>
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 body{
     font-weight: bold;
